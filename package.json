@@ -1,0 +1,19 @@
+{
+  "name": "aeonaxy",
+  "version": "1.0.0",
+  "description": "user enrollment and crud operations",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shiv kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "postgres": "^3.4.4"
+  }
+}
